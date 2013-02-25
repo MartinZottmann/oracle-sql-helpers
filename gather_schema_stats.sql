@@ -1,0 +1,1 @@
+EXEC dbms_stats.gather_schema_stats(USER);
